@@ -7,7 +7,7 @@ public class DeliveryOrderManagementSystemProject {
    
     public static void main(String[] args) {
      
-                // 1) Create Manager
+        // 1) Create Manager
         OrderManager manager = new OrderManager();
 
         // 2) Create Customer
